@@ -1,0 +1,19 @@
+*{width:883px;
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {	color:#ffb300;		
+	 font-size:89px;
+	font-weight: 900;
+	line-Height: 79px;
+	}
+h2 {	color:#ffb300;		
+	font-weight: 900;
+	}
+p {	color:#000000;
+	 font-size:21px;
+	font-weight: 500;
+	line-height:21px;
+	}
+.txt {	 font-size:21px;	
+	 font-weight: 500;
+	 line-height:21px;
